@@ -8,7 +8,6 @@ It's just a Preview Model
 To view the VR model on Browser
 Go to Aframe\Assets\AFrameExporter\export\index.html
 
-UnityA-frameExporter still has some bugs
-Exporter Link:
+UnityA-frameExporter Link:
 https://github.com/umiyuki/UnityAFrameExporter
 
